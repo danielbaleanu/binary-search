@@ -1,5 +1,5 @@
 # Binary Search on Large Data Sets
-A proof of concept for performing binary search on a dataset containing 100 million phone numbers using C++.
+Proof of concept for performing binary search on a dataset containing 100 million phone numbers using C++.
 
 ## Description
 This project demonstrates the efficient implementation of binary search on a large dataset of 100 million phone numbers, within the range of '0700000000' to '0799999999'. It also includes a name list generator where, by default, all names are labeled as 'Unknown'. The data is stored in two separate text files, and a Makefile is included for compilation.
